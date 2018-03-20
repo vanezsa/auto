@@ -1,3 +1,1 @@
-# auto
-
-Sketch To Bootstrap 4 (static)
+Sketch to Bootstrap 4
